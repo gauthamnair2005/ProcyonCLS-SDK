@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="ProcyonCLS-SDK",
-    version="2.0.5",
+    version="2.0.5.1",
     author="Gautham Nair",
     author_email="gautham.nair.2005@gmail.com",
     description="SDK for ProcyonCLS applications",

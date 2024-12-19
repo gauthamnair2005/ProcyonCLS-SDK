@@ -4,6 +4,6 @@
 ## Usage
 
 ```python
-from ProcyonCLS_SDK import kernel
-from ProcyonCLS_SDK import ekernel
+from ProcyonCLSSDK import kernel
+from ProcyonCLSSDK import ekernel
 ```

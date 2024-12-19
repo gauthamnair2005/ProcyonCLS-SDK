@@ -1,7 +1,7 @@
 # ProcyonCLS Extended Kernel
 
 import time
-import kernel
+from ProcyonCLSSDK import kernel
 import getpass
 import hashlib
 import pyfiglet
